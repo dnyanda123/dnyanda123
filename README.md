@@ -1,52 +1,15 @@
-<div align="center">
-  <a href="#">
-    <img src="https://i.ibb.co/85p5fGx/my-avatar.png" alt="My Avatar">
-  </a>
-</div>
+<h1 align="center">Hey there, I'm Dnyaneshwari!👋</h1>
 
-<h1 align="center">Hey 👋, I'm Vishal Patil</h1>
-<div align="center" style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=FFFFFF&width=700&lines=I'm+a+self-taught+passionate+Full-Stack+Developer+from+India." alt="Typing SVG" />
-    </a>
-</div>
+I'm a Master of Computer Applications (MCA) student with a passion for web development. I love building modern, responsive web applications and continuously learning new technologies to improve my skills.
 
+## 🚀 About Me
 
-<h3 align="center">Passion for programming ❤️</h3>
-<!-- <h4 align="center">My Portfolio: https://ravi-pawar-portfolio.netlify.app/ </h4> -->
-<div align="center">
+- 🎓 MCA Student at MIT World Peace University, Pune
+- 💻 Passionate about web development and open source
+- 🌱 Currently learning React, Node.js, and cloud technologies
+- 📫 How to reach me: dnyaneshwarinemade02@gmail.com
 
-</div>
-
-
-## About Me
-
-- 🔭 I’m B.Tech computer enginnering student and Graduate in 2024. 
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/vishpatil215?tab=repositories)**
-
-- 📫 How to reach me **vishalgpatil215@gmail.com**
-
-## Skills and Expertise
-- Proficient in HTML, CSS, JavaScript
-- Experienced in ReactJs, NodeJs
-- Familiar with MERN stack development
-- Worked with JSP,Servlet
-- Strong problem-solving skills and attention to detail
-
-
-## **Coding Profiles**:
-
-<p align="left"> 
-    <a href="https://auth.geeksforgeeks.org/user/vishalgpzg0f/practice" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/> </a>
-    <a href="https://leetcode.com/Vishal_Patil52/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
-    <a href="https://www.codechef.com/users/ravipawar-55" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
-    <a href="https://www.hackerrank.com/ravindrapawar551" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
-</p>
-
-
+## 🛠️ Skills
 ## Languages and Tools:
 
 <p align="left"> 
@@ -63,44 +26,34 @@
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://seekicon.com/free-icon-download/eclipse_2.svg" alt="eclipse" width="40" height="40"/> </a> &nbsp;
 </p>
 
+### Frontend
+- HTML, CSS, JavaScript
+- React
+- PHP
 
-<br/>
+### Backend
+- Node.js
+- MySQL
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vishpatil215&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
+### Tools and Technologies
+- Git, GitHub
+- Eclipse IDE
+- VS Code
+- Spring
+- Figma
 
+## 📈 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dnyanda123&show_icons=true&theme=radical)
 
-## My Github Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanda123&layout=compact&theme=radical)
 
-  <br/>
-    <a href="https://github.com/vishpatil215/github-readme-stats"><img alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishpatil215&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ravi-pawar55/github-readme-stats"><img alt="Vishal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishpatil215&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+## 🤝 Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/dnyaneshwari-nemade-b73669218)
+- [Portfolio](https://dnyanda123.github.io/Personal-Portfolio/)
+- [Instagram](https://www.instagram.com/dinny__n/)
 
-<br/>
-<br/>
+Feel free to explore my repositories and reach out if you'd like to collaborate on any projects or if you have any questions!
 
-## See my Contributions
-
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-  <a href = "https://www.instagram.com/ravi_pawar_55/?r=nametag"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/ravindra55/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
-</p>
-
-## 👀 Views and Followers
-<a href="https://github.com/vishpatil215/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ravi-pawar55">
-</a>
-<a href="https://github.com/vishapatil215?tab=followers"><img src="https://img.shields.io/github/followers/ravi-pawar55?label=Followers&style=social" alt="GitHub Badge"></a>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
