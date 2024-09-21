@@ -34,6 +34,8 @@ I'm a Master of Computer Applications (MCA) student with a passion for web devel
 ### Backend
 - Node.js
 - MySQL
+- MongoDB
+- Django
 
 ### Tools and Technologies
 - Git, GitHub
