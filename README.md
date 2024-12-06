@@ -5,8 +5,8 @@ I'm a Master of Computer Applications (MCA) student with a passion for web devel
 ## 🚀 About Me
 
 - 🎓 MCA Student at MIT World Peace University, Pune
-- 💻 Passionate about web development and open source
-- 🌱 Currently learning React, Node.js, and cloud technologies
+- 💻 Passionate about Web Development, Data Science and open source
+- 🌱 Currently learning React, Node.js, PowerBI, and data analytics tools.
 - 📫 How to reach me: dnyaneshwarinemade02@gmail.com
 
 ## 🛠️ Skills
@@ -32,7 +32,6 @@ I'm a Master of Computer Applications (MCA) student with a passion for web devel
 - PHP
 
 ### Backend
-- Node.js
 - MySQL
 - MongoDB
 - Django
@@ -41,7 +40,6 @@ I'm a Master of Computer Applications (MCA) student with a passion for web devel
 - Git, GitHub
 - Eclipse IDE
 - VS Code
-- Spring
 - Figma
 
 ## 📈 GitHub Stats
